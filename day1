@@ -4,3 +4,16 @@ learning about DEVOPS from Scratch
 Day1 covers Recursion basic and DEVOPS
 DEVOPS need some networking concept like https ftp etc.
 
+i learned some command on git 
+commit -m
+clear
+git log -p
+git checkout
+git merge 
+git branch 
+git status
+git diff
+ls
+git config
+git add -A
+git clone
