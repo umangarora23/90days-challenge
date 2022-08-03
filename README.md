@@ -1,2 +1,2 @@
-# 90days-challenge
+# 90days DSA-challenge
 learning DSA from scratch 
